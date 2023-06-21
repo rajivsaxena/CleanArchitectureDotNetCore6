@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AyushmanBharat
+/AyushmanBharat.API/bin/Debug/net6.0
+/AyushmanBharat.API/obj
+/AyushmanBharat.Application/bin/Debug/net6.0
+/AyushmanBharat.Application/obj
+/AyushmanBharat.Domain/bin/Debug/net6.0
+/AyushmanBharat.Domain/obj
+/AyushmanBharat.Infrastructure/bin/Debug/net6.0
+/AyushmanBharat.Infrastructure/obj
+/bin/Debug
+/obj
