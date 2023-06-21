@@ -1,0 +1,2 @@
+# CleanArchitectureDotNetCore6
+Clean Architecture Approach
